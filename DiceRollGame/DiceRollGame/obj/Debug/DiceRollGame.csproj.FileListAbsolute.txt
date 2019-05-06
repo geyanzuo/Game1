@@ -1,0 +1,7 @@
+C:\Users\102146016\Documents\GitHub\Game1\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.exe.config
+C:\Users\102146016\Documents\GitHub\Game1\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.exe
+C:\Users\102146016\Documents\GitHub\Game1\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.pdb
+C:\Users\102146016\Documents\GitHub\Game1\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.csprojAssemblyReference.cache
+C:\Users\102146016\Documents\GitHub\Game1\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Documents\GitHub\Game1\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.exe
+C:\Users\102146016\Documents\GitHub\Game1\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.pdb
