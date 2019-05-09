@@ -1,0 +1,7 @@
+C:\Users\102146016\Desktop\CrackGame\CrackGame\bin\Debug\CrackGame.exe.config
+C:\Users\102146016\Desktop\CrackGame\CrackGame\bin\Debug\CrackGame.exe
+C:\Users\102146016\Desktop\CrackGame\CrackGame\bin\Debug\CrackGame.pdb
+C:\Users\102146016\Desktop\CrackGame\CrackGame\obj\Debug\CrackGame.csprojAssemblyReference.cache
+C:\Users\102146016\Desktop\CrackGame\CrackGame\obj\Debug\CrackGame.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Desktop\CrackGame\CrackGame\obj\Debug\CrackGame.exe
+C:\Users\102146016\Desktop\CrackGame\CrackGame\obj\Debug\CrackGame.pdb
